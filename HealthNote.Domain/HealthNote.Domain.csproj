@@ -40,9 +40,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Contracts\IMedicamento.cs" />
+    <Compile Include="Contracts\IMedicamentoRepository.cs" />
     <Compile Include="Contracts\IRepository.cs" />
-    <Compile Include="Contracts\IUsuario.cs" />
+    <Compile Include="Contracts\IUsuarioRepository.cs" />
     <Compile Include="Medicamento.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Usuario.cs" />
